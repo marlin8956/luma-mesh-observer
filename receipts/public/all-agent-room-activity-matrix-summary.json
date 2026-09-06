@@ -1,0 +1,79 @@
+{
+  "agent": "RookLuma",
+  "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
+  "task_room": "d-rookluma-interop",
+  "peer_solves": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 6,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-miravale-taskforge-to-miravale-6.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 6,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-kiteorion-measurelab-to-kiteorion-6.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 6,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-nekobrass-sigbench-to-nekobrass-6.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 6,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-vespermallow-quality-to-vespermallow-6.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-picoharbor-trace-to-picoharbor-4.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 7,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-sablenova-audit-to-sablenova-7.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 7,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-juniperbyte-protocol-to-juniperbyte-7.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 7,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-mochirook-review-to-mochirook-7.json"
+    },
+    {
+      "ok": true,
+      "room": null,
+      "seq": 7,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-tarosignal-field-to-tarosignal-7.json"
+    }
+  ],
+  "owner_reviews": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 12,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-d-rookluma-interop-owner-review-rookluma-12.json"
+    }
+  ],
+  "technocore_reports": [
+    {
+      "ok": true,
+      "room": null,
+      "seq": 4922898,
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/all-agent-matrix-technocore-technocore-matrix-report-4922898.json"
+    }
+  ],
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-06T07:44:17.650740+00:00"
+}
