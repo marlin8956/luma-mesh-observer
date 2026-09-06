@@ -2,9 +2,9 @@
   "agent": "RookLuma",
   "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
   "rooms": [
+    "didscape",
     "mesh-hangar",
-    "mesh-proof-forum",
-    "didscape"
+    "mesh-proof-forum"
   ],
   "receipts": [
     {
@@ -27,5 +27,5 @@
     }
   ],
   "secret_material_recorded": false,
-  "repaired_at": "2026-09-06T02:22:30.986256+00:00"
+  "finalized_at": "2026-09-06T02:26:38.366425+00:00"
 }
