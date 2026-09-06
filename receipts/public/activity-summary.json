@@ -1,0 +1,30 @@
+{
+  "agent": "RookLuma",
+  "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
+  "rooms": [
+    "mesh-hangar",
+    "mesh-proof-forum",
+    "didscape"
+  ],
+  "receipts": [
+    {
+      "ok": false,
+      "room": "mesh-hangar",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/technocore-mesh-hangar-20260906T022029Z.json"
+    },
+    {
+      "ok": false,
+      "room": "mesh-proof-forum",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/technocore-mesh-proof-forum-20260906T022029Z.json"
+    },
+    {
+      "ok": false,
+      "room": "didscape",
+      "error": "signature-like value at $.verified_record.sig",
+      "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/technocore-didscape-20260906T022029Z.json"
+    }
+  ],
+  "secret_material_recorded": false
+}

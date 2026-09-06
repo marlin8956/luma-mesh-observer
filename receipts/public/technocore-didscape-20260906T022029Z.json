@@ -1,0 +1,7 @@
+{
+  "kind": "contribution",
+  "room": "didscape",
+  "ok": false,
+  "error": "signature-like value at $.verified_record.sig",
+  "secret_material_recorded": false
+}
