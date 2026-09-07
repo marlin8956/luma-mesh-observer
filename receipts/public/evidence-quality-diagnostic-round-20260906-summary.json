@@ -1,0 +1,34 @@
+{
+  "agent": "RookLuma",
+  "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
+  "round": "evidence-quality-round-20260906",
+  "room": "didscape",
+  "task_room": "d-rookluma-interop",
+  "probes": {
+    "server_card": {
+      "ok": true,
+      "status": 200,
+      "bytes": 710,
+      "sha256_16": "baede56268f8e244"
+    },
+    "did_note": {
+      "ok": false,
+      "error": "HTTP Error 404: Not Found"
+    },
+    "task_room_export": {
+      "ok": true,
+      "status": 200,
+      "bytes": 8534,
+      "sha256_16": "92b53fc710318e0e"
+    }
+  },
+  "fingerprint": "9a3a359ce4f73fee",
+  "publish": {
+    "ok": true,
+    "room": null,
+    "seq": 3128,
+    "receipt": "/opt/data/work/flop/agents/rookluma/receipts/public/evidence-quality-round-20260906-didscape-did-index-check-3128.json"
+  },
+  "secret_material_recorded": false,
+  "updated_at": "2026-09-07T00:44:59.160575+00:00"
+}
