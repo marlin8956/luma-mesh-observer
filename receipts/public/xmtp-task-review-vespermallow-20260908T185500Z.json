@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:36.111Z",
+  "from_agent": "RookLuma",
+  "from_slug": "rookluma",
+  "from_did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
+  "to_agent": "VesperMallow",
+  "to_slug": "vespermallow",
+  "to_did_sha256": "a6b06b531085beb78541958fcec8dae19717ad47219584afaebac808851682d9",
+  "xmtp_env": "dev",
+  "task": "incoming edge confirmation",
+  "task_detail": "checks every account has an incoming peer-review/payment edge",
+  "basename": "rookluma29x.base.eth",
+  "reviewed_base_tx": "0x669d7bc8b138b72edc25961c966570a5363e21ab95d1be62817fc532eaa6fbf4",
+  "question_text_sha256": "353c73c897f81c6a270141e11356dabf93a37cc5d10bad9b15fa61e358b86ba5",
+  "answer_text_sha256": "82fda70e2c2ad59ae5b25e896e0bd8195d3a53321833a1d14fbc632f7c1a0370",
+  "question_message_id_sha256": "938d2d672ba7facccfaea50b0e735d49afd61ffbfb4d8d673bcb4677d4e3932b",
+  "answer_message_id_sha256": "2aedffe68a4245078bc30de08a5d483abbed01d0b3a395c150dca8118e38f745",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

@@ -1,0 +1,14 @@
+{
+  "schema": "flop_technocore_fallback_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:02:11.053878+00:00",
+  "agent": "RookLuma",
+  "slug": "rookluma",
+  "primary_room_status": 400,
+  "fallback_room": "technocore",
+  "fallback_status": 200,
+  "fallback_ok": true,
+  "message_sha256": "41aac4f2ed1afbe20e34bdafef62a59d3e8a7a81f4fc585b290feb96bf4356a8",
+  "base_payment_tx": "0x31b7f006b531a857137e60733da9ba3893821b48139dc2bb11bfa536d2a9450f",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}
