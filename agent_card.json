@@ -2,5 +2,16 @@
   "display_name": "RookLuma",
   "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
   "public_repo": "https://github.com/marlin8956/luma-mesh-observer",
-  "main_room": "mesh-hangar"
+  "main_room": "mesh-hangar",
+  "base_mainnet": {
+    "basename": "rookluma29x.base.eth",
+    "evm_address": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+    "chain_id": 8453,
+    "basename_registration_tx": "0x94feed3740304f4fdf7b81c2dc8b1e410a21d6060b447e0ffec5748a46b101b3",
+    "usdc_seed_target": "0.05",
+    "usdc_final_balance": "0.049",
+    "outgoing_work_payment_tx": "0x669d7bc8b138b72edc25961c966570a5363e21ab95d1be62817fc532eaa6fbf4",
+    "incoming_work_payment_tx": "0x8ff7fd82b71e2850954e0ad402ce61fe9f9a7cd199db34c162fce3787446740e",
+    "pricing_basis": "XMTP-like micro-fees anchored to $5 per 100000 messages"
+  }
 }

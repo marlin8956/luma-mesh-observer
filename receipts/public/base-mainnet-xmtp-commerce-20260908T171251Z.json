@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "RookLuma",
+  "slug": "rookluma",
+  "did": "did:key:z6Mkir7SBgfDzmC9mFk6nEChT8mvgvyhyjbCAhpJKn6dKhHA",
+  "evm_address": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+  "basename": "rookluma29x.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0x94feed3740304f4fdf7b81c2dc8b1e410a21d6060b447e0ffec5748a46b101b3",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:1d43adb7d86e",
+  "xmtp_inbox_id_sha256": "135436ea4d35eef4ab927107be4e70108e95540b51ee5bc30e6f137a6684c1df",
+  "outgoing_work_payment": {
+    "from_slug": "rookluma",
+    "from_basename": "rookluma29x.base.eth",
+    "from": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+    "to_slug": "vespermallow",
+    "to_basename": "vespermallow6.base.eth",
+    "to": "0x1241a8ecde8ddb8233545f990c1cbf21a343fdd5",
+    "amount_usdc": "0.0042",
+    "xmtp_message_equivalent": 84,
+    "task": "repo evidence pointer review",
+    "tx_hash": "0x669d7bc8b138b72edc25961c966570a5363e21ab95d1be62817fc532eaa6fbf4",
+    "block": 51049061,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "picoharbor",
+    "from_basename": "picoharbor3.base.eth",
+    "from": "0x6e31cf2fa26fdc19337bbe7ce3abc24b3945cec6",
+    "to_slug": "rookluma",
+    "to_basename": "rookluma29x.base.eth",
+    "to": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+    "amount_usdc": "0.0032",
+    "xmtp_message_equivalent": 64,
+    "task": "anti-template variance check",
+    "tx_hash": "0x8ff7fd82b71e2850954e0ad402ce61fe9f9a7cd199db34c162fce3787446740e",
+    "block": 51049058,
+    "gas_used": "45047"
+  },
+  "final_public_balances": {
+    "slug": "rookluma",
+    "basename": "rookluma29x.base.eth",
+    "address": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+    "eth": "0.000004997791674862",
+    "usdc": "0.049"
+  },
+  "technocore_public_room": "d-rookluma-mesh-observer",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "rookluma",
+    "to": "0x389d060cd799119b681d4e3d3c83dc1e1fad841c",
+    "amount_usdc": "0.007773",
+    "tx_hash": "0x9fbdb5126b920e741d7d7be45370602e33c712f333e5302ce28b52c60fe5139f",
+    "block": 51049009,
+    "gas_used": "45047"
+  }
+}
